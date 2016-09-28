@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/Editor/build/
+/Editor/dist/
+/Editor/nbproject/private/
+/Librería personalizada/Filtro/build/
+/Librería personalizada/Filtro/dist/
+/Librería personalizada/Filtro/nbproject/private/
+/Librería personalizada/Filtros/build/
+/Librería personalizada/Filtros/dist/
+/Librería personalizada/Filtros/nbproject/private/
